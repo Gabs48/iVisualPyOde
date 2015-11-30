@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: iVisualPyODE
+Version: 0.1
+Summary: A framework for using iVisual Python and PyODE libraries together.
+Home-page: https://github.com/Gabs48/iVisualPyOde
+Author: see file AUTHORS
+Author-email: gabriel.urbain@ugent.be
+License: BSD or LGPL
+Description: UNKNOWN
+Platform: Any

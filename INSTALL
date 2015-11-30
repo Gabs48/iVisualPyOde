@@ -1,0 +1,27 @@
+Installation instructions for all systems
+=========================================
+
+Requirements:
+-------------
+
+- Python v2.7 (earlier versions may work but not tested.)
+  http://www.python.org/
+
+- PyODE v1.2 (tested with ODE v0.13)
+  http://pyode.sourceforge.net/
+
+- iVisual v0.1.87
+  https://pypi.python.org/pypi/IVisual/0.1.87
+
+Installation:
+-------------
+
+The package uses the easysetup / setuptools, so you can install it by calling
+
+  python setup.py install  (as root on Linux)
+or 
+  sudo python setup.py install (on Linux)
+
+which installs the package on your system.
+
+

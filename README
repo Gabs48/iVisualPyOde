@@ -1,0 +1,27 @@
+iVisualPyODE
+============
+
+VisualPyODE is a framework library to aid in using PyODE and Visual Python together.  When you create
+objects they have both physical and visual properties.  Supports collision, assemblies, and comes
+with some helpful enhanced joints to simplify creating your visualized simulation.  I have implemented
+the PyODE tutorial demo programs using the library so you can see exactly how to use it.  There are also
+a few extra demos that go beyond the tutorial.
+
+This library is free software; you can redistribute it and/or
+modify it under the terms of EITHER:
+  (1) The GNU Lesser General Public License as published by the Free
+      Software Foundation; either version 2.1 of the License, or (at
+      your option) any later version. The text of the GNU Lesser
+      General Public License is included with this library in the
+      file LICENSE.TXT.
+  (2) The BSD-style license that is included with this library in
+      the file LICENSE-BSD.TXT.
+
+This library is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the files
+LICENSE and LICENSE-BSD for more details.
+
+  * Installation instructions are in the INSTALL file
+
+  * The source code is at https://github.com/Gabs48/iVisualPyOde
